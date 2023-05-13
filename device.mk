@@ -7,6 +7,12 @@
 # Inherit from mt6895-common
 $(call inherit-product, device/xiaomi/mt6895-common/mt6895.mk)
 
+# Overlay
+DEVICE_PACKAGE_OVERLAYS += \
+    $(LOCAL_PATH)/overlay
+
+PRODUCT_ENFORCE_RRO_TARGETS := *
+
 # Soong
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
