@@ -9,6 +9,9 @@ DEVICE_PATH := device/xiaomi/plato
 # Inherit from mt6895-common
 include device/xiaomi/mt6895-common/BoardConfigCommon.mk
 
+# DTBO
+BOARD_PREBUILT_DTBOIMAGE := $(DEVICE_PATH)/dtbo.img
+
 # Display
 TARGET_SCREEN_DENSITY := 480
 
