@@ -1,0 +1,53 @@
+# Audio
+vendor/lib/hw/audio.primary.mediatek.so:vendor/lib/hw/audio.primary.mt6895.so
+vendor/lib/libmiresample.so
+vendor/lib/libmisound.so
+vendor/lib/libmisoundcrossfade.so
+vendor/lib/libaudio_param_parser-vnd.so
+vendor/etc/audio_param/AudioParamOptions_vext.xml
+vendor/etc/audio_param/FV-SAM-MTKXX.dat
+vendor/etc/audio_param/PlaybackVolAna_AudioParam.xml
+vendor/etc/audio_param/PlaybackVolAna_CeRegion_AudioParam.xml
+vendor/etc/audio_param/PlaybackVolDigi_AudioParam.xml
+vendor/etc/audio_param/PlaybackVolDigi_CeRegion_AudioParam.xml
+vendor/etc/audio_param/RecordVol_AudioParam.xml
+vendor/etc/audio_param/RecordVol_ParamUnitDesc.xml
+vendor/etc/audio_param/Record_AudioParam.xml
+vendor/etc/audio_param/RingbackVol_AudioParam.xml
+vendor/etc/audio_param/SmartPa_AudioParam.xml
+vendor/etc/audio_param/SmartPa_ParamUnitDesc.xml
+vendor/etc/audio_param/SpeechGeneral_AudioParam.xml
+vendor/etc/audio_param/VoIPv2_AudioParam.xml
+vendor/etc/audio_param/VoWDspAec_AudioParam.xml
+vendor/etc/audio_param/VoWEngineFeature_AudioParam.xml
+vendor/etc/audio_param/VoWVoiceCommand_AudioParam.xml
+vendor/etc/misound_res_headphone.bin
+vendor/etc/misound_res_spk.bin
+vendor/firmware/cs35l41-delta-rcv-handsfree.txt
+vendor/firmware/cs35l41-delta-rcv-music.txt
+vendor/firmware/cs35l41-delta-spk-handsfree.txt
+vendor/firmware/cs35l41-delta-spk-music.txt
+vendor/firmware/cs35l41-dsp1-spk-cali.wmfw
+vendor/firmware/cs35l41-dsp1-spk-prot.wmfw
+vendor/firmware/RCV-cs35l41-dsp1-spk-cali.bin
+vendor/firmware/RCV-cs35l41-dsp1-spk-prot.bin
+vendor/firmware/SPK-cs35l41-dsp1-spk-cali.bin
+vendor/firmware/SPK-cs35l41-dsp1-spk-prot.bin
+
+# Batterysecret
+vendor/bin/batterysecret
+
+# Touch
+vendor/firmware/goodix_cfg_group_l12a.bin
+vendor/firmware/goodix_cfg_group_l12a_new.bin
+vendor/firmware/goodix_firmware_l12a.bin
+vendor/firmware/goodix_firmware_l12a_new.bin
+vendor/firmware/goodix_test_limits_1_255.csv
+vendor/firmware/goodix_test_limits_255.csv
+
+# Vibrator
+vendor/firmware/aw8697_haptic.bin
+
+# Wi-Fi
+vendor/firmware/wifi.cfg
+vendor/firmware/txpowerctrl.cfg
