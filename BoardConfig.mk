@@ -7,6 +7,7 @@
 DEVICE_PATH := device/xiaomi/plato
 
 # Inherit from mt6895-common
+include device/xiaomi/mt6895-beanpod/BoardConfig.mk
 include device/xiaomi/mt6895-common/BoardConfigCommon.mk
 
 # DTBO

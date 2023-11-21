@@ -5,6 +5,7 @@
 #
 
 # Inherit from mt6895-common
+$(call inherit-product, device/xiaomi/mt6895-beanpod/beanpod.mk)
 $(call inherit-product, device/xiaomi/mt6895-common/mt6895.mk)
 
 # Overlay
