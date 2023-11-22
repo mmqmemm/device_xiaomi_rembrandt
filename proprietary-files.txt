@@ -37,6 +37,10 @@ vendor/firmware/SPK-cs35l41-dsp1-spk-prot.bin
 # Batterysecret
 vendor/bin/batterysecret
 
+# Sensors
+vendor/lib64/hw/sensors.mediatek.V2.0.so:vendor/lib64/hw/sensors.mt6895.so
+vendor/lib64/libhfmanager.so
+
 # Touch
 vendor/firmware/goodix_cfg_group_l12a.bin
 vendor/firmware/goodix_cfg_group_l12a_new.bin
