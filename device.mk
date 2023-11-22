@@ -8,6 +8,10 @@
 $(call inherit-product, device/xiaomi/mt6895-beanpod/beanpod.mk)
 $(call inherit-product, device/xiaomi/mt6895-common/mt6895.mk)
 
+# Audio
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/audio_device.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_device.xml
+
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
