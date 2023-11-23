@@ -1,9 +1,9 @@
 # Audio
-vendor/lib/hw/audio.primary.mediatek.so:vendor/lib/hw/audio.primary.mt6895.so
-vendor/lib/libmiresample.so
-vendor/lib/libmisound.so
-vendor/lib/libmisoundcrossfade.so
-vendor/lib/libaudio_param_parser-vnd.so
+vendor/lib64/hw/audio.primary.mediatek.so:vendor/lib64/hw/audio.primary.mt6895.so
+vendor/lib64/libmiresample.so
+vendor/lib64/libmisound.so
+vendor/lib64/libmisoundcrossfade.so
+vendor/lib64/libaudio_param_parser-vnd.so
 vendor/etc/audio_param/AudioParamOptions_vext.xml
 vendor/etc/audio_param/FV-SAM-MTKXX.dat
 vendor/etc/audio_param/PlaybackVolAna_AudioParam.xml
