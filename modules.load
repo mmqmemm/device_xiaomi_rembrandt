@@ -178,6 +178,7 @@ goodix_core.ko
 xm_power.ko
 elliptic.ko
 haptic.ko
+mi_thermal_interface.ko
 spmi-mtk-mpu.ko
 rpmb.ko
 rpmb-mtk.ko
@@ -358,3 +359,4 @@ goodix_core.ko
 xm_power.ko
 elliptic.ko
 haptic.ko
+mi_thermal_interface.ko
