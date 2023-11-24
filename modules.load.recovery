@@ -163,8 +163,6 @@ fan53870.ko
 wl2868c.ko
 wl2866d.ko
 simtray.ko
-uload_ind.ko
-load_track.ko
 sec.ko
 mtk-socinfo.ko
 emi-mpu-hook-v1.ko
@@ -337,8 +335,6 @@ fan53870.ko
 wl2868c.ko
 wl2866d.ko
 simtray.ko
-uload_ind.ko
-load_track.ko
 sec.ko
 mtk-socinfo.ko
 emi-mpu-hook-v1.ko
