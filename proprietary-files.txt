@@ -44,7 +44,7 @@ vendor/etc/cust_color.xml
 vendor/etc/cust_silky_brightness.xml
 
 # Sensors
-vendor/lib64/hw/sensors.mediatek.V2.0.so:vendor/lib64/hw/sensors.mt6895.so
+vendor/lib64/hw/sensors.mediatek.V2.0.so
 vendor/lib64/libhfmanager.so
 
 # Thermal
