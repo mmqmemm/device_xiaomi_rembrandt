@@ -34,6 +34,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     FrameworksResOverlayPlato \
     SettingsProviderOverlayPlato \
+    SettingsResOverlayPlato \
     SystemUIOverlayPlato \
     WifiResOverlayPlato
 
