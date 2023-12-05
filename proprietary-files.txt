@@ -43,6 +43,33 @@ vendor/etc/cust_color_42.xml
 vendor/etc/cust_color.xml
 vendor/etc/cust_silky_brightness.xml
 
+# NFC
+vendor/etc/libnfc-nci.conf
+vendor/etc/libnfc-nxp.conf
+vendor/etc/libnfc-nxp-pnscr.conf
+vendor/etc/libnfc-nxp_RF.conf:vendor/libnfc-nxp_RF.conf
+vendor/etc/sn100u_bootup.pnscr
+vendor/etc/sn100u_ese_disableIso.pnscr
+vendor/etc/sn100u_ese_disableIsoRead.pnscr
+vendor/etc/sn100u_nfcon.pnscr
+vendor/etc/sn100u_pnx_chr.pnscr
+vendor/etc/sn100u_pnx_cui.pnscr
+vendor/etc/sn100u_pnx_ese_1.pnscr
+vendor/etc/sn100u_pnx_ese_3.pnscr
+vendor/etc/sn100u_pnx_ese_aclog.pnscr
+vendor/etc/sn100u_pnx_ese_cplc.pnscr
+vendor/etc/sn100u_pnx_ese_fabkey.pnscr
+vendor/etc/sn100u_pnx_ese_free.pnscr
+vendor/etc/sn100u_pnx_ese_keyset.pnscr
+vendor/etc/sn100u_pnx_ese_sei2c_disable.pnscr
+vendor/etc/sn100u_pnx_ese_sei2c_enable.pnscr
+vendor/etc/sn100u_pnx_ese_sei2c_read.pnscr
+vendor/etc/sn100u_pnx_ese_sn.pnscr
+vendor/etc/sn100u_pnx_ndi.pnscr
+vendor/etc/sn100u_pnx_pcv.pnscr
+vendor/etc/sn100u_pnx_sst.pnscr
+vendor/lib64/libsn100u_fw.so
+
 # Sensors
 vendor/lib64/hw/sensors.mediatek.V2.0.so
 vendor/lib64/libhfmanager.so
