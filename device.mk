@@ -4,13 +4,9 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-# Inherit from mt6895-common
-$(call inherit-product, device/xiaomi/mt6895-beanpod/beanpod.mk)
-$(call inherit-product, device/xiaomi/mt6895-common/mt6895.mk)
-
 # Audio
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/audio_device.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_device.xml
+    $(LOCAL_PATH)/configs/audio_device.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_device.xml
 
 # NFC
 PRODUCT_PACKAGES += \
@@ -44,7 +40,7 @@ PRODUCT_PACKAGES += \
 
 # Sensors
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf
+    $(LOCAL_PATH)/configs/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf
 
 # Soong
 PRODUCT_SOONG_NAMESPACES += \
@@ -52,6 +48,10 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Shipping API Level
 PRODUCT_SHIPPING_API_LEVEL := 31
+
+# Inherit from mt6895-common
+$(call inherit-product, device/xiaomi/mt6895-beanpod/beanpod.mk)
+$(call inherit-product, device/xiaomi/mt6895-common/mt6895.mk)
 
 # Inherit the proprietary files
 $(call inherit-product, vendor/xiaomi/plato/plato-vendor.mk)
