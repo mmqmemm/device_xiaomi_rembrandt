@@ -8,4 +8,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- The padding on the top of the statusbar (usually 0) -->
     <dimen name="status_bar_padding_top">22.0px</dimen>
+
+    <!-- The radius of the enrollment progress bar, in dp -->
+    <integer name="config_udfpsEnrollProgressBar" translatable="false">119</integer>
 </resources>

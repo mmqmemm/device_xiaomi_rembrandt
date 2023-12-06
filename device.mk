@@ -8,6 +8,9 @@
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/audio_device.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_device.xml
 
+# Fingerprint
+TARGET_HAS_UDFPS := true
+
 # NFC
 PRODUCT_PACKAGES += \
     com.android.nfc_extras \

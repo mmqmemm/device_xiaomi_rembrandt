@@ -43,6 +43,10 @@ vendor/etc/cust_color_42.xml
 vendor/etc/cust_color.xml
 vendor/etc/cust_silky_brightness.xml
 
+# Fingerprint
+vendor/lib64/hw/fingerprint.goodix_fod.so:vendor/lib64/hw/fingerprint.goodix_fod.default.so
+vendor/lib64/libgf_hal.so
+
 # NFC
 vendor/etc/libnfc-nci.conf
 vendor/etc/libnfc-nxp.conf
