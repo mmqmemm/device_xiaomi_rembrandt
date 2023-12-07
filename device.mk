@@ -33,6 +33,7 @@ PRODUCT_COPY_FILES += \
 # Overlay
 PRODUCT_PACKAGES += \
     FrameworksResOverlayPlato \
+    SettingsProviderOverlayPlato \
     SystemUIOverlayPlato
 
 PRODUCT_ENFORCE_RRO_TARGETS := *
