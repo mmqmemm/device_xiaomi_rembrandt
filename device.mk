@@ -34,7 +34,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     FrameworksResOverlayPlato \
     SettingsProviderOverlayPlato \
-    SystemUIOverlayPlato
+    SystemUIOverlayPlato \
+    WifiResOverlayPlato
 
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
