@@ -21,3 +21,8 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := 22071212AG
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    PRIVATE_BUILD_DESC="plato_global-user 12 SP1A.210812.016 V14.0.7.0.ULQMIXM release-keys"
+
+BUILD_FINGERPRINT := Xiaomi/plato_global/plato:12/SP1A.210812.016/V14.0.7.0.ULQMIXM:user/release-keys
