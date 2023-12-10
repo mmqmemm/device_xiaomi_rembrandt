@@ -26,7 +26,6 @@ TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 VENDOR_SECURITY_PATCH := 2023-09-05
 
 # Inherit from mt6895-common
-include device/xiaomi/mt6895-beanpod/BoardConfig.mk
 include device/xiaomi/mt6895-common/BoardConfigCommon.mk
 
 # Inherit the proprietary files

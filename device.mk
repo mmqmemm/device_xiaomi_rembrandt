@@ -55,7 +55,6 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_SHIPPING_API_LEVEL := 31
 
 # Inherit from mt6895-common
-$(call inherit-product, device/xiaomi/mt6895-beanpod/beanpod.mk)
 $(call inherit-product, device/xiaomi/mt6895-common/mt6895.mk)
 
 # Inherit the proprietary files
