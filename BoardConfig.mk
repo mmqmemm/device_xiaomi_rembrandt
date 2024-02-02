@@ -26,7 +26,7 @@ TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 SOONG_CONFIG_xiaomiMt6895Vars_vibrator_use_effect_stream := true
 
 # SPL
-VENDOR_SECURITY_PATCH := 2023-09-05
+VENDOR_SECURITY_PATCH := 2023-11-01
 
 # Inherit from mt6895-common
 include device/xiaomi/mt6895-common/BoardConfigCommon.mk
