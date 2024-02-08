@@ -166,7 +166,6 @@ vdec-fmt.ko
 mtk-pwm.ko
 mtk_irtx_pwm.ko
 widevine_driver.ko
-trace_mmstat.ko
 pmsr.ko
 sec.ko
 spmtwam.ko
@@ -175,7 +174,6 @@ double_click.ko
 xiaomi_touch.ko
 fts_touch_spi.ko
 goodix_core.ko
-xm_power.ko
 elliptic.ko
 haptic.ko
 mi_thermal_interface.ko
@@ -347,7 +345,6 @@ vdec-fmt.ko
 mtk-pwm.ko
 mtk_irtx_pwm.ko
 widevine_driver.ko
-trace_mmstat.ko
 pmsr.ko
 sec.ko
 spmtwam.ko
@@ -356,7 +353,6 @@ double_click.ko
 xiaomi_touch.ko
 fts_touch_spi.ko
 goodix_core.ko
-xm_power.ko
 elliptic.ko
 haptic.ko
 mi_thermal_interface.ko
