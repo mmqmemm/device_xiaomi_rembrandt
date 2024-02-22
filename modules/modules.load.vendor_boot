@@ -57,6 +57,7 @@ mtk-mml.ko
 mdp_drv_mt6895.ko
 cmdq_helper_inf.ko
 mediatek-drm.ko
+ledtrig-backlight-drm.ko
 mmprofile.ko
 mtk-uart-apdma.ko
 8250_mtk.ko
@@ -207,6 +208,7 @@ mtk-mml.ko
 mdp_drv_mt6895.ko
 cmdq_helper_inf.ko
 mediatek-drm.ko
+ledtrig-backlight-drm.ko
 mmprofile.ko
 mtk-uart-apdma.ko
 8250_mtk.ko
