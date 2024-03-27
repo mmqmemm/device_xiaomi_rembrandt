@@ -6,9 +6,6 @@
 
 DEVICE_PATH := device/xiaomi/plato
 
-# DTBO
-BOARD_PREBUILT_DTBOIMAGE := $(DEVICE_PATH)/prebuilts/dtbo.img
-
 # Display
 TARGET_SCREEN_DENSITY := 480
 
