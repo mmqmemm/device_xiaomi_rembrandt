@@ -15,6 +15,9 @@
     -->
     <integer name="config_udfpsHbmType">1</integer>
 
+    <!-- The end padding for the clock in the status bar. -->
+    <dimen name="status_bar_clock_end_padding">6dp</dimen>
+
     <!-- Don't need the left side padding due to being inset from the cutout -->
     <dimen name="status_bar_padding_start">0dp</dimen>
  
