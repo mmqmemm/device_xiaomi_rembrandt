@@ -72,7 +72,6 @@ mddp.ko
 mtk_cm_ipi.ko
 mtk_cm_mgr.ko
 mtk_cm_mgr_mt6895.ko
-atf_logger.ko
 apu_top.ko
 apusys.ko
 vcp.ko
@@ -244,7 +243,6 @@ mddp.ko
 mtk_cm_ipi.ko
 mtk_cm_mgr.ko
 mtk_cm_mgr_mt6895.ko
-atf_logger.ko
 apu_top.ko
 apusys.ko
 vcp.ko
