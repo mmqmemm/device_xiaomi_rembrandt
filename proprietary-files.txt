@@ -84,7 +84,7 @@ vendor/etc/camera/deblur_sd_opencl_binary.bin
 vendor/etc/camera/deblur_sd_opencl_params.bin
 vendor/etc/camera/deblur_txt_apu.bin
 vendor/etc/camera/F1_pink.cng
-vendor/etc/camera/gma_custom.xml:vendor/etc/camera/gma_custom.txt
+vendor/etc/camera/gma_custom.xml:vendor/etc/camera/gma_custom.txt;SYMLINK=vendor/etc/camera/gma_custom.xml
 vendor/etc/camera/ldc/AI_Seg.bin
 vendor/etc/camera/ldc/LDC_FPC_TUNING_AI.bin
 vendor/etc/camera/ldc/LDC_FPC_TUNING.bin
