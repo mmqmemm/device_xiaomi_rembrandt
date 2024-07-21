@@ -206,7 +206,6 @@ vendor/lib64/libmialgoengine2.so
 vendor/lib64/libmibokeh_845_video.so
 vendor/lib64/libmibokeh_mt6873.so
 vendor/lib64/libminiui.so
-vendor/lib64/libmipc.so
 vendor/lib64/libmiresample.so
 vendor/lib64/libmisound.so
 vendor/lib64/libmisoundcrossfade.so
@@ -271,7 +270,6 @@ vendor/lib64/mt6895/libaidepth_tuning.so;SYMLINK=vendor/lib64/libaidepth_tuning.
 vendor/lib64/mt6895/libAIODcore.so;SYMLINK=vendor/lib64/libAIODcore.so
 vendor/lib64/mt6895/libAIOTcore.so;SYMLINK=vendor/lib64/libAIOTcore.so
 vendor/lib64/mt6895/libalgo.aosp.log.so;SYMLINK=vendor/lib64/libalgo.aosp.log.so
-vendor/lib64/mt6895/libapudcutils.so;SYMLINK=vendor/lib64/libapudcutils.so
 vendor/lib64/mt6895/libcam_ipc_hal3a_client.so;SYMLINK=vendor/lib64/libcam_ipc_hal3a_client.so
 vendor/lib64/mt6895/libcam_ipc_halisp_client.so;SYMLINK=vendor/lib64/libcam_ipc_halisp_client.so
 vendor/lib64/mt6895/libcam_ipc_nvbuf_client.so;SYMLINK=vendor/lib64/libcam_ipc_nvbuf_client.so
@@ -395,7 +393,6 @@ vendor/lib64/mt6895/libispfeature_mtkcam.v4l2.so;SYMLINK=vendor/lib64/libispfeat
 vendor/lib64/mt6895/liblpnr.so;SYMLINK=vendor/lib64/liblpnr.so
 vendor/lib64/mt6895/libmfllcore.so;SYMLINK=vendor/lib64/libmfllcore.so
 vendor/lib64/mt6895/libmgr3a.adapt.so;SYMLINK=vendor/lib64/libmgr3a.adapt.so
-vendor/lib64/mt6895/libmtk_drvb.so;SYMLINK=vendor/lib64/libmtk_drvb.so
 vendor/lib64/mt6895/libmtkcam_aie.so;SYMLINK=vendor/lib64/libmtkcam_aie.so
 vendor/lib64/mt6895/libmtkcam_android_zslprocessor.so;SYMLINK=vendor/lib64/libmtkcam_android_zslprocessor.so
 vendor/lib64/mt6895/libmtkcam_buffer_flush.so;SYMLINK=vendor/lib64/libmtkcam_buffer_flush.so
