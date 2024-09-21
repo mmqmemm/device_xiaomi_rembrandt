@@ -270,6 +270,7 @@ vendor/lib64/mt6895/libaidepth_tuning.so;SYMLINK=vendor/lib64/libaidepth_tuning.
 vendor/lib64/mt6895/libAIODcore.so;SYMLINK=vendor/lib64/libAIODcore.so
 vendor/lib64/mt6895/libAIOTcore.so;SYMLINK=vendor/lib64/libAIOTcore.so
 vendor/lib64/mt6895/libalgo.aosp.log.so;SYMLINK=vendor/lib64/libalgo.aosp.log.so
+vendor/lib64/mt6895/libapudcutils.so;SYMLINK=vendor/lib64/libapudcutils.so
 vendor/lib64/mt6895/libcam_ipc_hal3a_client.so;SYMLINK=vendor/lib64/libcam_ipc_hal3a_client.so
 vendor/lib64/mt6895/libcam_ipc_halisp_client.so;SYMLINK=vendor/lib64/libcam_ipc_halisp_client.so
 vendor/lib64/mt6895/libcam_ipc_nvbuf_client.so;SYMLINK=vendor/lib64/libcam_ipc_nvbuf_client.so
