@@ -191,9 +191,6 @@ vendor/lib64/libfeaturepolicy_dbhandler.so
 vendor/lib64/libfeaturepolicy.so
 vendor/lib64/libheichal.so
 vendor/lib64/libimagebuffer_wrapper.so
-vendor/lib64/libjpeg-alpha_vendor.so
-vendor/lib64/libjpeg-alpha-oal_vendor.so
-vendor/lib64/libJpgEncPipe.so
 vendor/lib64/libmiai_deblur.so
 vendor/lib64/libmiai_portraitsupernight.so
 vendor/lib64/libmialgo_ie_capture.so
