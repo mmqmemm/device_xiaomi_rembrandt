@@ -213,6 +213,9 @@ vendor/lib64/libmtkcam_fdWarpConvert.so
 vendor/lib64/libmtkcam_thirdparty.customzone.so
 vendor/lib64/libmtkisp_metadata_v2.so
 vendor/lib64/libOpenCL.so
+vendor/lib64/libpixelflinger.so
+vendor/lib64/librelight_only.so
+vendor/lib64/libremosaic_wrapper.so
 vendor/lib64/libSQLiteModule_VER_ALL.so
 vendor/lib64/libvideofilter_only.so
 vendor/lib64/libvidhance_active_ois.so
