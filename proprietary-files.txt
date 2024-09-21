@@ -2,7 +2,6 @@
 
 # Audio
 vendor/lib64/hw/audio.primary.mediatek.so;SYMLINK=vendor/lib64/hw/audio.primary.mt6895.so
-vendor/lib64/libmiresample.so
 vendor/lib64/libmisound.so
 vendor/lib64/libmisoundcrossfade.so
 vendor/lib64/libaudio_param_parser-vnd.so
@@ -206,7 +205,6 @@ vendor/lib64/libmialgoengine2.so
 vendor/lib64/libmibokeh_845_video.so
 vendor/lib64/libmibokeh_mt6873.so
 vendor/lib64/libminiui.so
-vendor/lib64/libmiresample.so
 vendor/lib64/libmisound.so
 vendor/lib64/libmisoundcrossfade.so
 vendor/lib64/libmispowerop.so
