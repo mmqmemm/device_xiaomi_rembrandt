@@ -5,7 +5,7 @@
 //
 
 runtime_resource_overlay {
-    name: "FrameworksResOverlayPlato",
+    name: "SystemUIOverlayRubens",
     sdk_version: "current",
     resource_dirs: ["res"],
     device_specific: true,

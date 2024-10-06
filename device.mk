@@ -32,11 +32,11 @@ PRODUCT_COPY_FILES += \
 
 # Overlay
 PRODUCT_PACKAGES += \
-    FrameworksResOverlayPlato \
-    SettingsProviderOverlayPlato \
-    SettingsResOverlayPlato \
-    SystemUIOverlayPlato \
-    WifiResOverlayPlato
+    FrameworksResOverlayRubens \
+    SettingsProviderOverlayRubens \
+    SettingsResOverlayRubens \
+    SystemUIOverlayRubens \
+    WifiResOverlayRubens
 
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
@@ -59,4 +59,4 @@ PRODUCT_SHIPPING_API_LEVEL := 31
 $(call inherit-product, device/xiaomi/mt6895-common/mt6895.mk)
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/xiaomi/plato/plato-vendor.mk)
+$(call inherit-product, vendor/xiaomi/rubens/rubens-vendor.mk)
