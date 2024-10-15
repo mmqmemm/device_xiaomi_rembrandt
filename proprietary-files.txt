@@ -1,4 +1,4 @@
-# Unpinned blobs from rubens-user 14 UP1A.230905.011 V816.0.10.0.ULNCNXM release-keys
+# Unpinned blobs from rembrandt-user 14 UP1A.230905.011 V816.0.8.0.UMMCNXM release-keys
 
 # Audio
 vendor/lib64/hw/audio.primary.mediatek.so;SYMLINK=vendor/lib64/hw/audio.primary.mt6895.so

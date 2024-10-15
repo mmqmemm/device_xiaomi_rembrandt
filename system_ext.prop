@@ -1,5 +1,5 @@
 # Camera
-ro.product.mod_device=rubens
+ro.product.mod_device=rembrandt
 
 # Fingerprint
 persist.vendor.sys.fp.udfps.location.X_Y=496,2330

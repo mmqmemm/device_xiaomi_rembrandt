@@ -1,18 +1,18 @@
 Copyright (C) 2023-2024 The LineageOS Project
 
-Device configuration for Redmi K50
+Device configuration for Redmi K60E
 =============================================================
 
-The Redmi K50 (codenamed _"rubens"_) is an mid-range smartphone from Xiaomi.
+The Redmi K60E (codenamed _"rembrandt"_) is an mid-range smartphone from Xiaomi.
 
-It was announced and released in March 2022.
+It was announced and released in December 2022.
 
 ## Device specifications
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-SoC     | Mediatek Dimensity 8100 (MT6895)
-CPU     | Octa-core (4x2.85 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)
+SoC     | Mediatek Dimensity 8200 (MT6896)
+CPU     | Octa-core (4x3.10 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)
 GPU     | Mali-G610 MC6
 Memory  | 8/12GB, LPDDR5
 Storage | 128/256GB, UFS 3.1
@@ -27,3 +27,6 @@ Rear Camera 2 | 8 MP, f/2.2, 120˚ (ultrawide), 1/4.0", 1.12µm
 Rear Camera 3 | 2 MP, f/2.4, (macro)
 Front Camera | 20 MP, f/2.2, (wide), 1/3.47", 0.8µm
 
+## Device Picture
+
+![Redmi K60E](https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1672037146.81276139.png)

@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/xiaomi/rubens
+DEVICE_PATH := device/xiaomi/rembrandt
 
 # Display
 TARGET_SCREEN_DENSITY := 560
@@ -21,10 +21,10 @@ TARGET_SYSTEM_EXT_PROP += $(DEVICE_PATH)/system_ext.prop
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
 # SPL
-VENDOR_SECURITY_PATCH := 2024-08-01
+VENDOR_SECURITY_PATCH := 2024-10-01
 
 # Inherit from mt6895-common
 include device/xiaomi/mt6895-common/BoardConfigCommon.mk
 
 # Inherit the proprietary files
-include vendor/xiaomi/rubens/BoardConfigVendor.mk
+include vendor/xiaomi/rembrandt/BoardConfigVendor.mk

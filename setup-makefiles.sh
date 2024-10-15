@@ -13,7 +13,7 @@ fi
 
 set -e
 
-export DEVICE=plato
+export DEVICE=rembrandt
 export DEVICE_COMMON=mt6895-common
 export TARGET_TEE=beanpod
 export VENDOR=xiaomi

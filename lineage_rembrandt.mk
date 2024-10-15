@@ -9,23 +9,23 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit_only.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Inherit from device makefile.
-$(call inherit-product, device/xiaomi/rubens/device.mk)
+$(call inherit-product, device/xiaomi/rembrandt/device.mk)
 
 # Inherit LineageOS product
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_rubens
-PRODUCT_DEVICE := rubens
+PRODUCT_NAME := lineage_rembrandt
+PRODUCT_DEVICE := rembrandt
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := 22041211AC
+PRODUCT_BRAND := Redmi
+PRODUCT_MODEL := 22122RK93C
 
-PRODUCT_SYSTEM_NAME := rubens
-PRODUCT_SYSTEM_DEVICE := rubens
+PRODUCT_SYSTEM_NAME := rembrandt
+PRODUCT_SYSTEM_DEVICE := rembrandt
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="rubens-user 14 UP1A.230905.011 V816.0.10.0.ULNCNXM release-keys" \
+    PRIVATE_BUILD_DESC="rembrandt-user 14 UP1A.230905.011 V816.0.8.0.UMMCNXM release-keys" \
     TARGET_DEVICE=$(PRODUCT_SYSTEM_DEVICE) \
     TARGET_PRODUCT=$(PRODUCT_SYSTEM_NAME)
 
-BUILD_FINGERPRINT := Xiaomi/rubens/rubens:14/UP1A.230905.011/V816.0.10.0.ULNCNXM:user/release-keys
+BUILD_FINGERPRINT := Xiaomi/rembrandt/rembrandt:14/UP1A.230905.011/V816.0.8.0.UMMCNXM:user/release-keys
