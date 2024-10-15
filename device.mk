@@ -33,7 +33,7 @@ PRODUCT_COPY_FILES += \
 # Overlay
 PRODUCT_PACKAGES += \
     FrameworksResOverlayRembrandt \
-    SettingsProviderOverlayRembandt \
+    SettingsProviderOverlayRembrandt \
     SettingsResOverlayRembrandt \
     SystemUIOverlayRembrandt \
     WifiResOverlayRembrandt
