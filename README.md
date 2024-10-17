@@ -1,4 +1,4 @@
-Copyright (C) 2023-2024 The LineageOS Project
+Copyright (C) 2024 The LineageOS Project
 
 Device configuration for Redmi K60E
 =============================================================
@@ -18,7 +18,6 @@ Memory  | 8/12GB, LPDDR5
 Storage | 128/256GB, UFS 3.1
 Shipped Android Version | 12
 Battery | Non-removable Li-Po 5500 mAh battery
-
 Display Type | AMOLED, 68B colors, 120Hz, HDR10+, 500 nits (typ), 900 nits (peak)
 Display Size | 6.67 inches, 107.4 cm2 (~86.7% screen-to-body ratio)
 Display Resolution | 1440 x 3200 pixels, 20:9 ratio
