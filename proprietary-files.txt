@@ -63,8 +63,6 @@ vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/rembrandtimx596_mipi_raw
 vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/rembrandtimx596_mipi_raw/mt6895/ISP_param.db;SYMLINK=vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/rembrandtimx596_mipi_raw/ISP_param.db
 vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/rembrandts5k4h7_mipi_raw/mt6895/ISP_mapping.db;SYMLINK=vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/rembrandts5k4h7_mipi_raw/ISP_mapping.db
 vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/rembrandts5k4h7_mipi_raw/mt6895/ISP_param.db;SYMLINK=vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/rembrandts5k4h7_mipi_raw/ISP_param.db
-vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/rembrandtimx582_mipi_raw_2/mt6895/ISP_mapping.db;SYMLINK=vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/rembrandtimx582_mipi_raw_2/ISP_mapping.db
-vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/rembrandtimx582_mipi_raw_2/mt6895/ISP_param.db;SYMLINK=vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/rembrandtimx582_mipi_raw_2/ISP_param.db
 vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/rembrandtimx582_mipi_raw/mt6895/ISP_mapping.db;SYMLINK=vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/rembrandtimx582_mipi_raw/ISP_mapping.db
 vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/rembrandtimx582_mipi_raw/mt6895/ISP_param.db;SYMLINK=vendor/bin/crossbuild/DataSet/SQLiteModule/db/tuning_DB/rembrandtimx582_mipi_raw/ISP_param.db
 vendor/bin/hw/mt6895/camerahalserver;SYMLINK=vendor/bin/hw/camerahalserver
@@ -132,7 +130,6 @@ vendor/lib64/com.xiaomi.plugin.arcsoftsr.so
 vendor/lib64/com.xiaomi.plugin.capbokeh.so
 vendor/lib64/com.xiaomi.plugin.dc.so
 vendor/lib64/com.xiaomi.plugin.depurple.so
-vendor/lib64/com.xiaomi.plugin.hdr.so
 vendor/lib64/com.xiaomi.plugin.ldc.so
 vendor/lib64/com.xiaomi.plugin.memcpy.so
 vendor/lib64/com.xiaomi.plugin.miaideblur.so
@@ -191,9 +188,7 @@ vendor/lib64/libcamalgo.warp.so
 vendor/lib64/libcamalgo.WarpMapResizer.so
 vendor/lib64/libcamera_scene.so
 vendor/lib64/libcameraplatforminfoxiaomi.so
-vendor/lib64/libceres.so
 vendor/lib64/libcom.xiaomi.pluginutils.so
-vendor/lib64/libdeflicker.so
 vendor/lib64/libfeature.hdr10.so
 vendor/lib64/libfeaturepolicy_dbhandler.so
 vendor/lib64/libfeaturepolicy.so
@@ -207,14 +202,12 @@ vendor/lib64/libmialgo_sd.so
 vendor/lib64/libmialgo_utils.so
 vendor/lib64/libmialgoengine.so
 vendor/lib64/libmialgoengine2.so
-vendor/lib64/libmibokeh_845_video.so
 vendor/lib64/libmibokeh_mt6873.so
 vendor/lib64/libminiui.so
 vendor/lib64/libmiStereoFactoryRemapBasicLib.so
 vendor/lib64/libmiStereoFactoryRemapLib.so
 vendor/lib64/libmpbase.so
 vendor/lib64/libmtkcam_3rdcalibration.so
-vendor/lib64/libmtkcam_fdWarpConvert.so
 vendor/lib64/libmtkcam_thirdparty.customzone.so
 vendor/lib64/libmtkisp_metadata_v2.so
 vendor/lib64/libOpenCL.so
@@ -499,8 +492,6 @@ vendor/lib64/mt6895/libvainr_model.so;SYMLINK=vendor/lib64/libvainr_model.so
 vendor/lib64/mt6895/mtk000_mipi_raw_tuning.so:vendor/lib64/mtk000_mipi_raw_tuning.so
 vendor/lib64/mt6895/rembrandtgc02m1_mipi_raw_IdxMgr.so:vendor/lib64/rembrandtgc02m1_mipi_raw_IdxMgr.so
 vendor/lib64/mt6895/rembrandtgc02m1_mipi_raw_tuning.so:vendor/lib64/rembrandtgc02m1_mipi_raw_tuning.so
-vendor/lib64/mt6895/rembrandtimx582_mipi_raw_2_IdxMgr.so:vendor/lib64/rembrandtimx582_mipi_raw_2_IdxMgr.so
-vendor/lib64/mt6895/rembrandtimx582_mipi_raw_2_tuning.so:vendor/lib64/rembrandtimx582_mipi_raw_2_tuning.so
 vendor/lib64/mt6895/rembrandtimx582_mipi_raw_IdxMgr.so:vendor/lib64/rembrandtimx582_mipi_raw_IdxMgr.so
 vendor/lib64/mt6895/rembrandtimx582_mipi_raw_tuning.so:vendor/lib64/rembrandtimx582_mipi_raw_tuning.so
 vendor/lib64/mt6895/rembrandtimx596_mipi_raw_IdxMgr.so:vendor/lib64/rembrandtimx596_mipi_raw_IdxMgr.so
