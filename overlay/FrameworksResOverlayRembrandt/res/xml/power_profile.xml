@@ -222,7 +222,7 @@
     <array name="memory.bandwidths">
         <value>22.7</value>
     </array>
-    <item name="battery.capacity">5000</item>
+    <item name="battery.capacity">5500</item>
     <item name="wifi.controller.idle">1</item>
     <item name="wifi.controller.rx">122</item>
     <item name="wifi.controller.tx">206</item>
