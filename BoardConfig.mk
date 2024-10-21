@@ -10,8 +10,8 @@ DEVICE_PATH := device/xiaomi/rembrandt
 TARGET_SCREEN_DENSITY := 560
 
 # Init
-TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_rubens
-TARGET_RECOVERY_DEVICE_MODULES := libinit_rubens
+TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_rembrandt
+TARGET_RECOVERY_DEVICE_MODULES := libinit_rembrandt
 
 # Kernel - prebuilt
 TARGET_FORCE_PREBUILT_KERNEL := true
