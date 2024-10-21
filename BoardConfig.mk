@@ -28,6 +28,11 @@ BOARD_VENDOR_RAMDISK_KERNEL_MODULES := $(wildcard $(DEVICE_PATH)/prebuilts/modul
 BOARD_VENDOR_RAMDISK_KERNEL_MODULES_LOAD := $(strip $(shell cat $(DEVICE_PATH)/prebuilts/modules/modules.load))
 BOARD_VENDOR_RAMDISK_RECOVERY_KERNEL_MODULES_LOAD := $(strip $(shell cat $(DEVICE_PATH)/prebuilts/modules/modules.load.recovery))
 
+#Vendor_dlkm
+BOARD_USES_VENDOR_DLKMIMAGE := true
+BOARD_VENDOR_KERNEL_MODULES := $(wildcard vendor/xiaomi/rembrandt/propietary/vendor_dlkm/lib/modules/*.ko)
+BOARD_VENDOR_KERNEL_MODULES_LOAD := $(strip $(shell cat vendor/xiaomi/rembrandt/proprietary/vendor_dlkm/lib/modules/modules.load))
+
 # Properties
 TARGET_PRODUCT_PROP += $(DEVICE_PATH)/product.prop
 TARGET_SYSTEM_EXT_PROP += $(DEVICE_PATH)/system_ext.prop
